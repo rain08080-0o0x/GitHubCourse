@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "出たぁ！";
+	std::cout << "中野「GitHub講座を始めます！」";
 
 	std::cin.get();
 
