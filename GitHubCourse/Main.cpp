@@ -3,6 +3,7 @@
 int main()
 {
 	std::cout << "中野「GitHub講座を始めます！」";
+	std::cout << " いやだ";
 
 	std::cin.get();
 
